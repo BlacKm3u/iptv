@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+#
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decode="HW" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://i.postimg.cc/vmm3dVnR/01-TVN.png" group-title="Chile" group-title="Chile",TVN
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://marine2.miplay.cl/tvn/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decode="HW" decode="HW" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://i.postimg.cc/xTS517m3/02-Mega.png" group-title="Chile",Mega
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://marine2.miplay.cl/mega/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="ChileVision" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decode="HW" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/white/chv.png" group-title="Chile",CHV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://marine2.miplay.cl/chilevision/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decode="HW" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://i.postimg.cc/bYnL88Zv/04-Canal03.png" group-title="Chile",Canal13
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://canal13-m3u.chorroaeboy.repl.co
+#
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decode="HW" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://i.postimg.cc/Kzkf1hQJ/05-La-Red.png" group-title="Chile",La Red
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://marine2.miplay.cl/lared/tracks-v2a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="TVPlus.cl" tvg-name="TV Plus" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decode="HW" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://i.postimg.cc/FRMZcCBm/06-TV.png" group-title="Chile",TV+
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://marine2.miplay.cl/tvmas/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="UCTV.cl" tvg-name="UCV TV" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decode="HW" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://i.postimg.cc/C5b44C38/07-UCV.png" group-title="Chile",UCV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://marine2.miplay.cl/ucv3/tracks-v2a1/mono.m3u8
+#
+##############
+###BlacKm3u###
+##############
