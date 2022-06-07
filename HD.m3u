@@ -1,0 +1,74 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+#
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decoder="HW+" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/01_TVN.png" group-title="Chile" group-title="Chile",1. TVN
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://marine2.miplay.cl/tvn/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="24 Horas" tvg-language="Spanish" tvg-country="CL" tvg-url="https://www.zapping.cl/guia/24horas/" shift="-3" decoder="HW+" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/02_24_HORAS.png" group-title="Noticias | Chile",2. 24 Horas
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?access_token=
+#
+#EXTINF:-1 tvg-id="TVChile.cl" tvg-name="TV Chile" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decoder="HW+" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/03_TV_CHILE.png" group-title="Chile" group-title="Chile",3. TV Chile
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?access_token=
+#
+#EXTINF:-1 tvg-id="NTV.cl" tvg-name="NTV" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decoder="HW+" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/04_NTV.png" group-title="Geeks | Kids",4. NTV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+#
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decoder="HW+" decoder="HW+" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/05_MEGA.png" group-title="Chile",5. Mega
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://marine2.miplay.cl/mega/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="Meganoticias.cl" tvg-name="Meganoticias" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decoder="HW+" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/06_MEGANOTICIAS.png" group-title="Noticias | Chile",6. Meganoticias
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?access_token=
+#
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="ChileVision" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decoder="HW+" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/07_CHILEVISION.png" group-title="Chile",7. CHV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://marine2.miplay.cl/chilevision/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="CHVMNoticias.cl" tvg-name="CHV Noticias" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decoder="HW+" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/08_CHV_NOTICIAS.png" group-title="Noticias | Chile",8. CHV Noticias
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master_4.m3u8
+#
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decoder="HW+" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/09_CANAL_13.png" group-title="Chile",9. Canal 13
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://canal13-m3u.chorroaeboy.repl.co
+#
+#EXTINF:-1 tvg-id="T13.cl" tvg-name="T13" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decoder="HW+" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/10_T13.png" group-title="Noticias | Chile",10. T13
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/t13/livestream1/chunks.m3u8
+#
+#EXTINF:-1 tvg-id="13Entretención.cl" tvg-name="13 Entretención" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decoder="HW+" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/11_13_E.png" group-title="Chile",11. 13e | Entretención
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
+#
+#EXTINF:-1 tvg-id="13Prime.cl" tvg-name="13 Prime" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decoder="HW+" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/12_13_P.png" group-title="Chile",12. 13p | Prime
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
+#
+#EXTINF:-1 tvg-id="13Teleseries.cl" tvg-name="13 Teleseries" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decoder="HW+" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/13_13_T.png" group-title="Chile",13. 13t | Teleseries
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
+#
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decoder="HW+" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/14_LA_RED.png" group-title="Chile",14. La Red
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://marine2.miplay.cl/lared/tracks-v2a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="TVPlus.cl" tvg-name="TV Plus" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decoder="HW+" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/15_TV+.png" group-title="Chile",15. TV+
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://marine2.miplay.cl/tvmas/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="UCTV.cl" tvg-name="UCV TV" tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decoder="HW+" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/16_UCV.png" group-title="Chile",16. UCV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://marine2.miplay.cl/ucv3/tracks-v2a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="UCTV2.cl" tvg-name="UCV TV 2 " tvg-language="Spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml" shift="-3" decoder="HW+" audio-track="spa" aspect-ratio="720p" subtitles="disable" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/17_UCV_2.png" group-title="Chile",17. UCV | 2
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/15.1.1
+https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8?nimblesessionid=
+#
+##############
+###BlacKm3u###
+##############
